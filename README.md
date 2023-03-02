@@ -1,5 +1,8 @@
 # CodingtestStudy
-- 1month curriculum (23.03.02 ~ 23.04.02)
+- 1month curriculum (23.03.03 ~ 23.04.03)
+| 날짜 | Tag                          | 태그                | 문제번호    |             
+| :--------------: | :----------------------: | :-----------------: | :------:  | 
+| 23.03.03 | Data Structure | 자료구조 | <a href="https://www.acmicpc.net/problem/2504" target="_blank">2504</a>, <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a> | 
 
 
 ### 코딩테스트 알고리즘 학습 순서 추천

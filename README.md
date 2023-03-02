@@ -16,8 +16,8 @@
 | 23.03.06 | Prefix Sum | 누적 합 | [바로가기](./problem/prefix_sum) | 2014, 2167 |
 | 23.03.07 | Backtracking | 백트래킹 | [바로가기](./problem/backtracking) | 15651, 15652 |
 | 23.03.08 | Backtracking | 백트래킹 | [바로가기](./problem/backtracking) | 10971, 9663 |
-| 23.03.09 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./problem/dynamic_programming_2) | 9084, 2225 |
-| 23.03.10 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.09 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./problem/dynamic_programming2) | 9084, 2225 |
+| 23.03.10 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming1) | 2748, 1010 |
 | 23.03.11 | Graph Traversal | 그래프 탐색 | [바로가기](./problem/graph_traversal) | 16973, 16954 |
 | 23.03.12 | Graph Traversal | 그래프 탐색 | [바로가기](./problem/graph_traversal) | 22946, 2206 |
 | 23.03.13 | Tree | 트리 | [바로가기](./problem/tree) | 11725, 9934 |
@@ -60,8 +60,8 @@
 | 02 | Math | 수학 | [바로가기](./problem/math) | 18 | 29 | 
 | 03 | Tree | 트리 | [바로가기](./problem/tree) | 15 | 44 | 
 | 04 | Greedy | 탐욕법 | [바로가기](./problem/greedy) | 27 | 62 | 
-| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 27 | 80 | 
-| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./problem/dynamic_programming_2) | 28 | 81 | 
+| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming1) | 27 | 80 | 
+| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./problem/dynamic_programming2) | 28 | 81 | 
 | 07 | Two Pointer | 투 포인터 | [바로가기](./problem/two_pointer) | 13 | 36 | 
 | 08 | Implementation | 구현 | [바로가기](./problem/implementation) | 30 | 51 | 
 | 09 | Graph Traversal | 그래프 탐색 | [바로가기](./problem/graph_traversal) | 31 | 96 |

@@ -6,7 +6,46 @@
 
 | 날짜 | Tag                          | 태그                | 문제집    | 문제번호    |             
 | :--------------: | :----------------------: | :-----------------: | :------:  | :------:  | 
-| 23.03.03 | Data Structure | 자료구조 | [바로가기](./problem/data_structure) | 2504, 1874 |
+| 23.03.03 | Data Structure | 자료구조 | [바로가기](./problem/data_structure) | 1966, 10866 |
+| 23.03.04 | Data Structure2 | 자료구조2 | [바로가기](./problem/data_structure2) | 4358, 7662 |
+| 23.03.05 | Math | 수학 | [바로가기](./problem/Math) | 5618, 22864 |
+| 23.03.06 | Prefix Sum | 누적 합 | [바로가기](./problem/prefix_sum) | 2014, 2167 |
+| 23.03.07 | Backtracking | 백트래킹 | [바로가기](./problem/backtracking) | 15665, 15666 |
+| 23.03.08 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./problem/dynamic_programming_2) | 9084, 2225 |
+| 23.03.09 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.10 | Tree | 트리 | [바로가기](./problem/tree) | 11725, 9934 |
+| 23.03.11 | Graph Traversal | 그래프 탐색 | [바로가기](./problem/graph_traversal) | 11725, 17836 |
+| 23.03.12 | Shortest Path | 최단경로 | [바로가기](./problem/shortest_path) | 18352, 1719 |
+| 23.03.13 | Binary Search | 이분탐색 | [바로가기](./problem/binary_search) | 2110, 2512 |
+| 23.03.14 | Divide and conquer | 분할정복 | [바로가기](./problem/divide_and_conquer) | 178829, 1992 |
+| 23.03.15 | Greedy | 탐욕법 | [바로가기](./problem/greedy) | 14916, 16953 |
+| 23.03.16 | Brute Forece | 완전탐색 | [바로가기](./problem/brute_force) | 2961, 2798 |
+| 23.03.17 | Simulation | 시뮬레이션 | [바로가기](./problem/simulation) | 1713, 15683 |
+| 23.03.18 | Implementation | 구현 | [바로가기](./problem/implementation) | 4396, 1913 |
+| 23.03.19 | String | 문자열 | [바로가기](./problem/string) | 17413, 20210 |
+| 23.03.20 | Trie | 트라이 | [바로가기](./problem/trie) | 14425, 5052 |
+| 23.03.21 | Two Pointers | 투 포인터 | [바로가기](./problem/two_pointers) | 20922, 20366 |
+| 23.03.22 | Topological Sorting | 위상정렬 | [바로가기](./problem/topological_sorting) | 1766, 2252 |
+| 23.03.23 | Disjoint Set | 분리집합 | [바로가기](./problem/disjoint_set) | 10775, 4195 |
+| 23.03.24 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./problem/mst) | 1197, 1647 |
+| 23.03.25 | Dynamic Programming On Trees | 트리 디피 | [바로가기](./problem/dynamic_programming_on_trees) | 2213, 1949 |
+| 23.03.26 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.27 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.28 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.29 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.30 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.03.31 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.04.01 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.04.02 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+| 23.04.03 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
+
+
+
+
+
+
+
+
 
 
 

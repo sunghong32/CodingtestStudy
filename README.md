@@ -6,7 +6,7 @@
 
 | 날짜 | Tag                          | 태그                | 문제집    | 문제번호    |             
 | :--------------: | :----------------------: | :-----------------: | :------:  | :------:  | 
-| 23.03.03 | Data Structure | 자료구조 | [바로가기](./problem/data_structure) | 1966, 10866 |
+| 23.03.03 | Data Structure | 자료구조 | [바로가기](./problem/data_structure) | 1918, 2346 |
 | 23.03.04 | Data Structure2 | 자료구조2 | [바로가기](./problem/data_structure2) | 4358, 7662 |
 | 23.03.05 | Math | 수학 | [바로가기](./problem/Math) | 5618, 22864 |
 | 23.03.06 | Prefix Sum | 누적 합 | [바로가기](./problem/prefix_sum) | 2014, 2167 |
@@ -29,21 +29,6 @@
 | 23.03.23 | Disjoint Set | 분리집합 | [바로가기](./problem/disjoint_set) | 10775, 4195 |
 | 23.03.24 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./problem/mst) | 1197, 1647 |
 | 23.03.25 | Dynamic Programming On Trees | 트리 디피 | [바로가기](./problem/dynamic_programming_on_trees) | 2213, 1949 |
-| 23.03.26 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.03.27 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.03.28 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.03.29 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.03.30 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.03.31 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.04.01 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.04.02 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-| 23.04.03 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./problem/dynamic_programming_1) | 2748, 1010 |
-
-
-
-
-
-
 
 
 
